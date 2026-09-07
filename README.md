@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif/Coding.gif" />
 
 I'm an **Electronics and Communication Engineering** undergraduate at **KPR Institute of Engineering and Technology, Coimbatore**, passionate about **software development, full-stack development, and cloud computing**. I build AI- and IoT-based projects and love exploring data-driven technologies.
 
